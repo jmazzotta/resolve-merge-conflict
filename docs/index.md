@@ -1,1 +1,1 @@
-# Welcome to resolve-merge-conflict-demo
+# Welcome to resolve-merge-conflict-demo!
