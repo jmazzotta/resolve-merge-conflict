@@ -1,1 +1,1 @@
-# Welcome to resolve-merge-conflict-how-to
+# Welcome to resolve-merge-conflict-how-totoo
